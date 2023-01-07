@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "0sEhYhkc9nC5/42/lB5Rm7dIAUCszSyWdYeDmlSCeHK1PDK1S11BFp6ZzC4gwF7M1vLTNq7lpeYeoDRSa/lxng==",
+  "success": true,
+  "projectFilePath": "D:\\DotnetProjcts\\MVCDocker\\MVCDocker.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\SUPRAJA REDDY\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.17.0\\microsoft.visualstudio.azure.containers.tools.targets.1.17.0.nupkg.sha512"
+  ],
+  "logs": []
+}
