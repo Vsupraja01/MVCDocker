@@ -13,12 +13,12 @@ spec:
         app: Dockersampleconfig
     spec:
       containers:
-      - name: usmshcr
-        image: usmshcr.azurecr.io/learningrepos:latest
+      - name: samplecr123
+        image: samplecr123.azurecr.io/learningrepos:latest
         ports:
         - containerPort: 8080
       imagePullSecrets:
-      - name: dsconfigsn1
+      - name: dsconfigsn
 
 ---
 apiVersion: v1
