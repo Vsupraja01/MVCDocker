@@ -13,7 +13,7 @@ spec:
         app: Dockersampleconfig
     spec:
       containers:
-      - name: samplecr123
+      - name: SampleCR123
         image: samplecr123.azurecr.io/learningrepos:latest
         ports:
         - containerPort: 8080
