@@ -13,12 +13,12 @@ spec:
         app: Dockersampleconfig
     spec:
       containers:
-      - name: SampleCR123
-        image: samplecr123.azurecr.io/dockerrepos:latest
+      - name: suprajacr
+        image: suprajacr.azurecr.io/dockerrepos:latest
         ports:
         - containerPort: 8080
       imagePullSecrets:
-      - name: dsconfigsn
+      - name: dsconfigsn1
 
 ---
 apiVersion: v1
